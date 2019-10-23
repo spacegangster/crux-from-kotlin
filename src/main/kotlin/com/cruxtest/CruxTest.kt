@@ -1,13 +1,6 @@
 package com.cruxtest
 
-import clojure.java.api.Clojure
-import clojure.lang.IFn
 import clojure.lang.Keyword
-import taoensso.nippy.*
-import crux.*
-import taoensso.encore.*
-import crux.index.*
-import clojure.tools.reader.*
 import crux.api.Crux
 
 fun main(args: Array<String>) {
