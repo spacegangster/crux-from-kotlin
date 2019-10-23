@@ -14,7 +14,7 @@ repositories {
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
-    compile "juxt:crux-core:19.09-1.4.1-alpha-SNAPSHOT"
+    compile "juxt:crux-core:19.09-1.5.0-alpha"
 }
 
 
